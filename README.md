@@ -1,4 +1,14 @@
-### Hi there 👋
+# Senior Tech Lead #
+## About ##
+* Have 11+ years of hands on experience in building and maintaining web applications.
+* Hands on expertise in trending front end JavaScript frameworks and libraries like Angular, React Js.
+* Hands on experience in back end technologies like NodeJS, ExpressJS.
+* Good understading of version control systems like git, svn.
+* Good understanding of Amazon web services which includes s3 buckets, pre-signedurl, lamda functions, API gateways.
+## Tech Stack ##
+**Technologies** : Angular, React Js, Node Js, Express Js, React Native, jQuery, AWS S3, Firebase.<br/>
+**Database** : MS SQL, MongoDB, PostgreSQL.<br/>
+**Reports** : SSRS, MS Word, MS Excel, XML, PDF.
 
 <!--
 **jayandrasinghec/jayandrasinghec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
